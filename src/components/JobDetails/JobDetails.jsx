@@ -1,8 +1,15 @@
 import { useLoaderData, useParams } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import {
+    getStoredJobApplication,
+    saveJobApplication,
+} from "../../utility/localStorage";
 
 const JobDetails = () => {
     const jobs = useLoaderData();
     const { id } = useParams();
+    const idInt = parseInt(id);
     const job = jobs.find((job) => job.id == id);
 
     console.log(job);
@@ -16,6 +23,19 @@ const JobDetails = () => {
         job_title,
         contact_information,
     } = job;
+
+    const handleApplyJob = () => {
+        const getStoredJobs = getStoredJobApplication();
+
+        if (getStoredJobs.find((jobId) => jobId == id) === undefined) {
+            saveJobApplication(idInt);
+            toast.success("You have applied successfully!");
+        } else {
+            toast.error("You have already applied!");
+        }
+
+        // if(!getStoredJobs.find(jobId => jobId == id)){}
+    };
 
     return (
         <div className="my-20">
@@ -53,7 +73,7 @@ const JobDetails = () => {
                 </div>
 
                 <div>
-                    <div className="p-7 bg-gradient-to-t from-[#7e90fe1a] to-[#9873ff1a]">
+                    <div className="p-7 bg-gradient-to-t from-[#7e90fe1a] to-[#9873ff1a] rounded-lg">
                         <h3 className="font-bold text-lg">Job Details</h3>
                         <hr className="my-2" />
                         <p>
@@ -84,12 +104,16 @@ const JobDetails = () => {
                     </div>
 
                     <div className="mt-4">
-                        <button className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-bold w-full text-white py-5 text-lg">
+                        <button
+                            onClick={handleApplyJob}
+                            className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-bold w-full text-white py-5 text-lg rounded-lg"
+                        >
                             Apply Now
                         </button>
                     </div>
                 </div>
             </div>
+            <ToastContainer />
         </div>
     );
 };
