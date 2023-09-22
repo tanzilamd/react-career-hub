@@ -1,8 +1,10 @@
 import { CiLocationOn } from "react-icons/ci";
 import { RiMoneyDollarCircleLine } from "react-icons/ri";
+import { Link } from "react-router-dom";
 
 const Job = ({ job }) => {
     const {
+        id,
         logo,
         job_title,
         company_name,
@@ -37,9 +39,11 @@ const Job = ({ job }) => {
                     {salary}
                 </p>
             </div>
-            <button className="btn btn-info bg-[#7E90FE] text-white border-0 mt-6">
-                View Details
-            </button>
+            <Link to={`job/${id}`}>
+                <button className="btn btn-info bg-[#7E90FE] text-white border-0 mt-6">
+                    View Details
+                </button>
+            </Link>
         </div>
     );
 };
