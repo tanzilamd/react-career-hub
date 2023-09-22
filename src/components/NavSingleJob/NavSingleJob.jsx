@@ -2,7 +2,7 @@ import { CiLocationOn } from "react-icons/ci";
 import { RiMoneyDollarCircleLine } from "react-icons/ri";
 import { Link } from "react-router-dom";
 
-const Job = ({ job }) => {
+const NavSingleJob = ({ job }) => {
     const {
         id,
         logo,
@@ -39,7 +39,7 @@ const Job = ({ job }) => {
                     {salary}
                 </p>
             </div>
-            <Link to={`job/${id}`}>
+            <Link to={`../job/${id}`}>
                 <button className="btn btn-info bg-[#7E90FE] text-white border-0 mt-6">
                     View Details
                 </button>
@@ -48,4 +48,4 @@ const Job = ({ job }) => {
     );
 };
 
-export default Job;
+export default NavSingleJob;

@@ -1,5 +1,11 @@
+import UnderMaintenance from "../UnderMaintenance/UnderMaintenance";
+
 const Statistics = () => {
-    return <div>Statistics</div>;
+    return (
+        <div>
+            <UnderMaintenance></UnderMaintenance>
+        </div>
+    );
 };
 
 export default Statistics;

@@ -1,22 +1,22 @@
 [
-     {
-      "id": 1,
-      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-      "job_title": "Technical Database Engineer",
-      "company_name": "Google LLC",
-      "remote_or_onsite": "Remote",
-      "location": "Dhaka, Bangladesh",
-      "job_type": "Full Time",
-      "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
-      "experiences": "2-3 Years in this field.",
-      "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-      }
+    {
+        "id": 1,
+        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
     },
     {
         "id": 2,
@@ -32,12 +32,12 @@
         "educational_requirements": "Bachelor degree to complete any reputational university.",
         "experiences": "2-3 Years in this field.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      },
-      {
+    },
+    {
         "id": 3,
         "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
         "job_title": "Software Engineer",
@@ -51,12 +51,12 @@
         "educational_requirements": "Bachelor degree to complete any reputational university.",
         "experiences": "2-3 Years in this field.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      },
-      {
+    },
+    {
         "id": 4,
         "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
         "job_title": "Software Engineer",
@@ -70,12 +70,12 @@
         "educational_requirements": "Bachelor degree to complete any reputational university.",
         "experiences": "2-3 Years in this field.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      },
-      {
+    },
+    {
         "id": 5,
         "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
         "job_title": "Technical Database Engineer",
@@ -89,12 +89,12 @@
         "educational_requirements": "Bachelor degree to complete any reputational university.",
         "experiences": "2-3 Years in this field.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      },
-      {
+    },
+    {
         "id": 6,
         "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
         "job_title": "Senior Product Designer",
@@ -108,10 +108,239 @@
         "educational_requirements": "Bachelor degree to complete any reputational university.",
         "experiences": "2-3 Years in this field.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+            "phone": "01750-00 00 00",
+            "email": "info@gmail.com",
+            "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      }
-  
-  ]
+    },
+
+    {
+        "id": 7,
+        "logo": "https://i.ibb.co/tXnKXbZ/Microsoft-logo-2012-svg.png",
+        "job_title": "Data Analyst",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Redmond, Washington, USA",
+        "job_type": "Full Time",
+        "salary": "90k-120k",
+        "job_description": "Data analysts at Microsoft are responsible for collecting, analyzing, and interpreting data to support business decisions.",
+        "job_responsibility": "Data collection, report generation, and collaboration with data scientists and engineers.",
+        "educational_requirements": "Bachelor's degree in Data Science or related field.",
+        "experiences": "1-2 years of data analysis experience.",
+        "contact_information": {
+            "phone": "555-987-6543",
+            "email": "jobs@microsoft.com",
+            "address": "One Microsoft Way, Redmond, WA"
+        }
+    },
+    {
+        "id": 8,
+        "logo": "https://i.ibb.co/bN6YGZS/Untitled.png",
+        "job_title": "Software Developer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Onsite",
+        "location": "Seattle, Washington, USA",
+        "job_type": "Full Time",
+        "salary": "110k-160k",
+        "job_description": "Software developers at Amazon design, develop, and maintain software systems that power various Amazon services and products.",
+        "job_responsibility": "Coding, debugging, and collaborating with cross-functional teams.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of software development experience.",
+        "contact_information": {
+            "phone": "123-456-7890",
+            "email": "hr@amazon.com",
+            "address": "410 Terry Ave N, Seattle, WA"
+        }
+    },
+    {
+        "id": 9,
+        "logo": "https://i.ibb.co/G2M73hD/Apple-Logo.png",
+        "job_title": "Marketing Specialist",
+        "company_name": "Apple Inc.",
+        "remote_or_onsite": "Hybrid",
+        "location": "Cupertino, California, USA",
+        "job_type": "Full Time",
+        "salary": "95k-140k",
+        "job_description": "Marketing specialists at Apple assist in the development and execution of marketing campaigns to promote Apple's products and services.",
+        "job_responsibility": "Market research, campaign planning, and collaboration with creative teams.",
+        "educational_requirements": "Bachelor's degree in Marketing or related field.",
+        "experiences": "2-4 years of marketing experience.",
+        "contact_information": {
+            "phone": "987-654-3210",
+            "email": "hr@apple.com",
+            "address": "1 Apple Park Way, Cupertino, CA"
+        }
+    },
+    {
+        "id": 10,
+        "logo": "https://i.ibb.co/tXnKXbZ/Microsoft-logo-2012-svg.png",
+        "job_title": "Data Scientist",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Redmond, Washington, USA",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "Data scientists at Microsoft analyze large datasets to extract valuable insights and contribute to data-driven decision-making.",
+        "job_responsibility": "Data analysis, machine learning model development, and collaboration with data engineering teams.",
+        "educational_requirements": "Master's degree in Data Science or related field.",
+        "experiences": "3-5 years of data science experience.",
+        "contact_information": {
+            "phone": "555-123-4567",
+            "email": "recruiting@microsoft.com",
+            "address": "One Microsoft Way, Redmond, WA"
+        }
+    },
+    {
+        "id": 11,
+        "logo": "https://i.ibb.co/bN6YGZS/Untitled.png",
+        "job_title": "Product Manager",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Hybrid",
+        "location": "Seattle, Washington, USA",
+        "job_type": "Full Time",
+        "salary": "120k-180k",
+        "job_description": "Product Managers at Amazon are responsible for defining and delivering innovative products and features.",
+        "job_responsibility": "Product roadmap planning, stakeholder communication, and team coordination.",
+        "educational_requirements": "Bachelor's degree in Business or related field.",
+        "experiences": "4-6 years of product management experience.",
+        "contact_information": {
+            "phone": "800-123-4567",
+            "email": "careers@amazon.com",
+            "address": "410 Terry Ave N, Seattle, WA"
+        }
+    },
+    {
+        "id": 12,
+        "logo": "https://i.ibb.co/581xMbb/facebook-logo-15.png",
+        "job_title": "Front-End Developer",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Remote",
+        "location": "Menlo Park, California, USA",
+        "job_type": "Full Time",
+        "salary": "110k-160k",
+        "job_description": "Front-End Developers at Facebook create and maintain user interfaces for web applications and collaborate with designers to implement user-friendly designs.",
+        "job_responsibility": "Front-end development, code optimization, and collaboration with UI/UX designers.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of front-end development experience.",
+        "contact_information": {
+            "phone": "650-123-4567",
+            "email": "jobs@facebook.com",
+            "address": "1 Hacker Way, Menlo Park, CA"
+        }
+    },
+
+    {
+        "id": 13,
+        "logo": "https://i.ibb.co/r6KM9PC/IBM-logo-svg.png",
+        "job_title": "HR Manager",
+        "company_name": "IBM",
+        "remote_or_onsite": "Hybrid",
+        "location": "Armonk, New York, USA",
+        "job_type": "Full Time",
+        "salary": "100k-140k",
+        "job_description": "HR Managers at IBM oversee human resources activities, including recruitment, employee relations, and performance management.",
+        "job_responsibility": "HR strategy development, talent acquisition, and employee engagement initiatives.",
+        "educational_requirements": "Bachelor's degree in Human Resources or related field.",
+        "experiences": "5-8 years of HR management experience.",
+        "contact_information": {
+            "phone": "800-555-1234",
+            "email": "hr@ibm.com",
+            "address": "1 New Orchard Road, Armonk, NY"
+        }
+    },
+    {
+        "id": 14,
+        "logo": "https://i.ibb.co/581xMbb/facebook-logo-15.png",
+        "job_title": "Backend Developer",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Onsite",
+        "location": "Menlo Park, California, USA",
+        "job_type": "Full Time",
+        "salary": "120k-170k",
+        "job_description": "Backend Developers at Facebook work on server-side development and database management for web applications.",
+        "job_responsibility": "Server-side coding, database optimization, and collaboration with front-end developers.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of backend development experience.",
+        "contact_information": {
+            "phone": "650-555-4321",
+            "email": "backend.jobs@facebook.com",
+            "address": "1 Hacker Way, Menlo Park, CA"
+        }
+    },
+    {
+        "id": 15,
+        "logo": "https://i.ibb.co/S7wFJQm/Adobe-Corporate-logo.png",
+        "job_title": "UX Designer",
+        "company_name": "Adobe",
+        "remote_or_onsite": "Hybrid",
+        "location": "San Jose, California, USA",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "UX Designers at Adobe create user-friendly interfaces for software and web applications, focusing on user experience and design aesthetics.",
+        "job_responsibility": "UI/UX design, usability testing, and collaboration with development teams.",
+        "educational_requirements": "Bachelor's degree in Design or related field.",
+        "experiences": "3-5 years of UX design experience.",
+        "contact_information": {
+            "phone": "408-123-4567",
+            "email": "uxdesign@adobe.com",
+            "address": "345 Park Ave, San Jose, CA"
+        }
+    },
+    {
+        "id": 16,
+        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+        "job_title": "Financial Analyst",
+        "company_name": "Goldman Sachs",
+        "remote_or_onsite": "Onsite",
+        "location": "New York City, New York, USA",
+        "job_type": "Full Time",
+        "salary": "110k-160k",
+        "job_description": "Financial Analysts at Goldman Sachs analyze financial data, assess market trends, and provide investment recommendations.",
+        "job_responsibility": "Financial data analysis, market research, and portfolio management.",
+        "educational_requirements": "Bachelor's degree in Finance or related field.",
+        "experiences": "2-4 years of financial analysis experience.",
+        "contact_information": {
+            "phone": "212-555-7890",
+            "email": "financialjobs@gs.com",
+            "address": "200 West Street, New York, NY"
+        }
+    },
+    {
+        "id": 17,
+        "logo": "https://i.ibb.co/1R7FBdt/cisco.png",
+        "job_title": "Network Engineer",
+        "company_name": "Cisco Systems",
+        "remote_or_onsite": "Onsite",
+        "location": "San Jose, California, USA",
+        "job_type": "Full Time",
+        "salary": "100k-140k",
+        "job_description": "Network Engineers at Cisco design, implement, and manage network infrastructure solutions for clients and organizations.",
+        "job_responsibility": "Network design, configuration, and troubleshooting.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of network engineering experience.",
+        "contact_information": {
+            "phone": "408-555-5678",
+            "email": "networkjobs@cisco.com",
+            "address": "170 West Tasman Drive, San Jose, CA"
+        }
+    },
+    {
+        "id": 18,
+        "logo": "https://i.ibb.co/bN6YGZS/Untitled.png",
+        "job_title": "Product Marketing Manager",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Hybrid",
+        "location": "Seattle, Washington, USA",
+        "job_type": "Full Time",
+        "salary": "120k-170k",
+        "job_description": "Product Marketing Managers at Amazon develop and execute marketing strategies to promote Amazon's products and services.",
+        "job_responsibility": "Product marketing, campaign planning, and market analysis.",
+        "educational_requirements": "Bachelor's degree in Marketing or related field.",
+        "experiences": "5-7 years of product marketing experience.",
+        "contact_information": {
+            "phone": "800-123-4567",
+            "email": "productmarketing@amazon.com",
+            "address": "410 Terry Ave N, Seattle, WA"
+        }
+    }
+]

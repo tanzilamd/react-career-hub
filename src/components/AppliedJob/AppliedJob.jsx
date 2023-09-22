@@ -16,7 +16,7 @@ const AppliedJob = ({ job }) => {
     return (
         <div>
             <div className="flex flex-col md:flex-row justify-between p-7 border-2 border-[#E8E8E8] rounded-lg my-4 items-center">
-                <div className="flex gap-4">
+                <div className="flex flex-col md:flex-row gap-4">
                     <div className="bg-[#F4F4F4] p-10">
                         <img className="w-[140px]" src={logo} alt="" />
                     </div>
